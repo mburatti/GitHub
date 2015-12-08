@@ -18,6 +18,7 @@
 <a href="cadastroAluno.jsp">Cadastro Aluno - Recepção de Variaveis</a><br/>
 <a href="noCache.jsp">No Cache</a></br>
 <a href="sessionTime.jsp">Configurar tempo de sessão</a>
+<a href="relatorioProdutos.jsp">Lojinha - Conexão com banco</a>
 
 <% 	response.setHeader("Expires","00/00/0000");
 	response.setHeader("Pragma","no-cache");
